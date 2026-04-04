@@ -1,0 +1,44 @@
+[
+{
+  "directory": "D:/BaiduNetdiskDownload/项目2-26/project2/build",
+  "command": "E:\\MSYS2\\mingw64\\bin\\g++.exe  @CMakeFiles/demo.dir/includes_CXX.rsp -g -std=gnu++17 -Wall -g -pthread -o CMakeFiles\\demo.dir\\main.cc.obj -c D:\\BaiduNetdiskDownload\\项目2-26\\project2\\main.cc",
+  "file": "D:/BaiduNetdiskDownload/项目2-26/project2/main.cc",
+  "output": "CMakeFiles/demo.dir/main.cc.obj"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/项目2-26/project2/build",
+  "command": "E:\\MSYS2\\mingw64\\bin\\g++.exe  @CMakeFiles/demo.dir/includes_CXX.rsp -g -std=gnu++17 -Wall -g -pthread -o CMakeFiles\\demo.dir\\ps_rtp.cc.obj -c D:\\BaiduNetdiskDownload\\项目2-26\\project2\\ps_rtp.cc",
+  "file": "D:/BaiduNetdiskDownload/项目2-26/project2/ps_rtp.cc",
+  "output": "CMakeFiles/demo.dir/ps_rtp.cc.obj"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/项目2-26/project2/build",
+  "command": "E:\\MSYS2\\mingw64\\bin\\g++.exe  @CMakeFiles/demo.dir/includes_CXX.rsp -g -std=gnu++17 -Wall -g -pthread -o CMakeFiles\\demo.dir\\decode.cc.obj -c D:\\BaiduNetdiskDownload\\项目2-26\\project2\\decode.cc",
+  "file": "D:/BaiduNetdiskDownload/项目2-26/project2/decode.cc",
+  "output": "CMakeFiles/demo.dir/decode.cc.obj"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/项目2-26/project2/build",
+  "command": "E:\\MSYS2\\mingw64\\bin\\g++.exe  @CMakeFiles/demo.dir/includes_CXX.rsp -g -std=gnu++17 -Wall -g -pthread -o CMakeFiles\\demo.dir\\gb28181.cc.obj -c D:\\BaiduNetdiskDownload\\项目2-26\\project2\\gb28181.cc",
+  "file": "D:/BaiduNetdiskDownload/项目2-26/project2/gb28181.cc",
+  "output": "CMakeFiles/demo.dir/gb28181.cc.obj"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/项目2-26/project2/build",
+  "command": "E:\\MSYS2\\mingw64\\bin\\g++.exe  @CMakeFiles/demo.dir/includes_CXX.rsp -g -std=gnu++17 -Wall -g -pthread -o CMakeFiles\\demo.dir\\xml_utils.cc.obj -c D:\\BaiduNetdiskDownload\\项目2-26\\project2\\xml_utils.cc",
+  "file": "D:/BaiduNetdiskDownload/项目2-26/project2/xml_utils.cc",
+  "output": "CMakeFiles/demo.dir/xml_utils.cc.obj"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/项目2-26/project2/build",
+  "command": "E:\\MSYS2\\mingw64\\bin\\g++.exe  @CMakeFiles/demo.dir/includes_CXX.rsp -g -std=gnu++17 -Wall -g -pthread -o CMakeFiles\\demo.dir\\push.cc.obj -c D:\\BaiduNetdiskDownload\\项目2-26\\project2\\push.cc",
+  "file": "D:/BaiduNetdiskDownload/项目2-26/project2/push.cc",
+  "output": "CMakeFiles/demo.dir/push.cc.obj"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/项目2-26/project2/build",
+  "command": "E:\\MSYS2\\mingw64\\bin\\g++.exe  @CMakeFiles/demo.dir/includes_CXX.rsp -g -std=gnu++17 -Wall -g -pthread -o CMakeFiles\\demo.dir\\config.cc.obj -c D:\\BaiduNetdiskDownload\\项目2-26\\project2\\config.cc",
+  "file": "D:/BaiduNetdiskDownload/项目2-26/project2/config.cc",
+  "output": "CMakeFiles/demo.dir/config.cc.obj"
+}
+]
